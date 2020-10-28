@@ -15,5 +15,6 @@ A comparação deve utilizar como referência o tempo em nanosegundos.
 
 # Estrutura
 SortingMethods contém todos quatro métodos necessários em uma classe chamada method.
-.
+
+
 Listas contém as listas (e suas interfaces) dinâmicas, tanto a comum quanto a duplamente ligada.
